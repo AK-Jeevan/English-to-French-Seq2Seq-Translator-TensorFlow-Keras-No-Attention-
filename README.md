@@ -5,6 +5,9 @@ This project demonstrates every step of the Seq2Seq NLP pipeline — preprocessi
 The entire implementation is fully commented for clarity.
 
 ---
+## Dataset 
+
+https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset
 
 ## ⭐ Features
 
